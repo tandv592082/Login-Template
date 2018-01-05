@@ -5,5 +5,5 @@
 ## Demo
 
 <p align="center">
-  <img src="https://giphy.com/embed/3ohc17L8q27QOgJSlW">
+  <img src="https://media.giphy.com/media/3ohc17L8q27QOgJSlW/giphy.gif">
 </p> 
